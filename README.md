@@ -21,5 +21,3 @@
 - Client: A major Japanese real estate company
 - Position: Infrastructure leader of 30+ team members
 
-## GitHub stats
-[![](https://github-readme-stats.vercel.app/api?username=soojinc35)](https://github.com/anuraghazra/github-readme-stats)
